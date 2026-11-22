@@ -1,0 +1,8 @@
+{
+  "name": "Live FX Console",
+  "description": "Luxury studio hardware soundboard console for live musicians featuring 24 tactile pads across 2 banks, real-time Web Audio FX, stereo VU metering, and persistent custom audio uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
